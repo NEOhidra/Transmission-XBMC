@@ -23,7 +23,7 @@
     <description lang="ca">Actualment, Transmission-XBMC permet veure, afegir, eliminar, iniciar i parar torrents. En futures versions de l'aplicació s'haniran afegint opcions més avançades.</description>
     <platform>all</platform>
     <license>MIT</license>
-    <forum></forum>
+    <forum>http://forum.kodi.tv/showthread.php?tid=76081</forum>
     <website></website>
     <source>https://github.com/correl/Transmission-XBMC</source>
     <email>correl@gmail.com</email>
